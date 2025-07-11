@@ -44,7 +44,8 @@ pip install pandas matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sabbir337/GeneExpression.git
+ git clone https://github.com/sabbir337/GeneExpression.git
+
    ```
 
 2. Ensure the following files are present:
